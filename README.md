@@ -1,5 +1,6 @@
 # TGSaver 2.0
 * Уже в бета тесте!
+* [Get TGSaver2](https://github.com/imyoric/TGSaverEx/releases)
 # Настройка
 * Запускаем TGSaver: `java -jar tgsaver.jar`. _Где tgsaver.jar - путь до вашего тг сейвера._
 * Видим следующее:
