@@ -1,5 +1,8 @@
 # TGSaver 2.0
-* Уже в бета тесте!
+* Что такое TGSaver?
+    ```
+    TGSaver - это программа сохраняющая все сообщения из всех чатов по мере их получения вашим телеграм аккаунтом.
+    ```
 * [Получить TGSaver 2.0 beta](https://github.com/imyoric/TGSaverEx/releases)
 # Настройка
 * Запускаем TGSaver: `java -jar tgsaver.jar`. _Где tgsaver.jar - путь до вашего тг сейвера._
