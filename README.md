@@ -4,6 +4,7 @@
     TGSaver - это программа сохраняющая все сообщения из всех чатов по мере их получения вашим телеграм аккаунтом.
     ```
 * [Получить TGSaver 2.0 beta](https://github.com/imyoric/TGSaverEx/releases)
+* [Лицензионное соглашение](https://github.com/imyoric/TGSaverEx/blob/main/License.md)
 # Настройка
 * Запускаем TGSaver: `java -jar tgsaver.jar`. _Где tgsaver.jar - путь до вашего тг сейвера._
 * Видим следующее:
