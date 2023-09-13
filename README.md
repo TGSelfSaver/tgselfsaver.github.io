@@ -28,5 +28,5 @@
 * Готово! Теперь запускаем TGSaver: `java -jar tgsaver.jar`
 * Если возникли проблемы или ошибки, можете создать [Issue](https://github.com/imyoric/TGSaverEx/issues/new), постараемся помочь в ближайшее время!
 # Для разработчиков
-* [Пример плагина](https://github.com/imyoric/TestPluginforTGSaver)https://github.com/imyoric/TestPluginforTGSaver
+* [Пример плагина](https://github.com/imyoric/TestPluginforTGSaver)
 * [JavaDoc](https://imyoric.github.io/docs)
