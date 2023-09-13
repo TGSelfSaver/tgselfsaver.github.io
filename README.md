@@ -6,7 +6,6 @@
 * [Получить TGSaver 2.0 beta](https://github.com/imyoric/TGSaverEx/releases)
 * [Лицензионное соглашение](https://github.com/imyoric/TGSaverEx/blob/main/License.md)
 * [Поблагодарить разработчика](https://yoomoney.ru/fundraise/rnF5RgFAzK4.230808)
-* [Для разработчиков (JavaDoc)](https://imyoric.github.io/)
 # Настройка
 * Запускаем TGSaver: `java -jar tgsaver.jar`. _Где tgsaver.jar - путь до вашего тг сейвера._
 * Видим следующее:
@@ -28,3 +27,6 @@
 > _Не пишите коментарии в конфиг файле! Они там не нужны._
 * Готово! Теперь запускаем TGSaver: `java -jar tgsaver.jar`
 * Если возникли проблемы или ошибки, можете создать [Issue](https://github.com/imyoric/TGSaverEx/issues/new), постараемся помочь в ближайшее время!
+# Для разработчиков
+* [Пример плагина](https://github.com/imyoric/TestPluginforTGSaver)https://github.com/imyoric/TestPluginforTGSaver
+* [JavaDoc](https://imyoric.github.io/docs)
