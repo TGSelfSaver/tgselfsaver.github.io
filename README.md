@@ -29,5 +29,5 @@
 * Если возникли проблемы или ошибки, можете создать [Issue](https://github.com/imyoric/TGSaverEx/issues/new), постараемся помочь в ближайшее время!
 # Для разработчиков
 * [Пример плагина](https://github.com/imyoric/TestPluginforTGSaver)
-* [PluginAPI Docs](https://imyoric.github.io/docs)
+* [PluginAPI Docs](https://tgselfsaver.github.io/docs)
 * [TdAPI Docs](https://tdlight-team.github.io/tdlight-docs/tdlight.api/it/tdlight/jni/class-use/TdApi.Function.html)
